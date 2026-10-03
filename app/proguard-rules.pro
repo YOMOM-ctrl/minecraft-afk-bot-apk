@@ -1,0 +1,3 @@
+-keep class com.example.afkbot.** { *; }
+-keep interface com.example.afkbot.** { *; }
+-keepclassmembers class com.example.afkbot.** { *; }

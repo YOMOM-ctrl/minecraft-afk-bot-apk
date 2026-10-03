@@ -1,0 +1,72 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.so
+*.elf
+*.dex
+*.class
+*.protobufs
+*.pb
+*.pb.go
+*.pb.gw.go
+*.pb.validate.go
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+logcat.txt
+
+# Android Studio Navigation editor temp file
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+*.iml
+*.gradle
+.gradle/
+build/
+
+# Keystore files
+*.jks
+*.keystore
+*.key
+*.pem
+
+# External native build folder generated in Android Studio
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_files/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/.env
+
+# Version control
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+*~
